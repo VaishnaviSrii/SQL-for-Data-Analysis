@@ -17,7 +17,7 @@ Key Concepts:
 
 
 Files Included:
-- Task3_SQL_Queries.sql
+- SQL_Queries.sql
 - Screenshots of Query Outputs
 - E-Commerce Dataset 
 
